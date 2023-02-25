@@ -1,0 +1,19 @@
+{
+  "posts": [
+    {
+      "title": "Soph",
+      "slug": "soph-post",
+      "content": "Sofiya's adventures."
+    },
+    {
+      "title": "Tina",
+      "slug": "tina-post",
+      "content": "Tina chronicles"
+    },
+    {
+      "title": "Whisper",
+      "slug": "whisper-post",
+      "content": "What's the cat up to?"
+    }
+  ]
+}
