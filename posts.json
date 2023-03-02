@@ -16,4 +16,15 @@
       "content": "What's the cat up to?"
     }
   ]
+  
+  "postHero": [
+    {
+      "imgRatio": "1/1"
+      "imgSrc": "https://github.com/SophLuxStudios/sophBlog/blob/main/images/sofiyaPicCV.jpg?raw=true"
+      "linkSrc": "/"
+      "blogText": {"Good times with Mama. She looks so professional in this photo which myself was the photographer."}
+      "author": {"Tina"}
+      "postDate": {"February 27, 2023"}
+    }
+  ]
 }
